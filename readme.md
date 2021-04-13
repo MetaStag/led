@@ -46,6 +46,6 @@ alias led='lua ~/path/to/file/led.lua'
 
 #### License
 
-This project is licensed under the GPL 3.0 License - see the [License](LICENSE) file for details
+This project is licensed under the GPL 3.0 License - see the [License](license) file for details
 
 ---
