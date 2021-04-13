@@ -1,4 +1,4 @@
-*** led cheatsheet
+### led cheatsheet
 
 Command | Function
 ------- | -------
