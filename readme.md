@@ -1,6 +1,7 @@
 ## led
 
 led is an ed clone written in lua!
+
 ---
 
 ##### What is ed?
@@ -45,5 +46,7 @@ alias led='lua ~/path/to/file/led.lua'
 [Cheatsheet](cheatsheet.md)
 
 ##### License
-This project is licensed under the [] License - see the [LICENSE](LICENSE) file for details
+
+This project is licensed under the GPL 3.0 License - see the [License](LICENSE) file for details
+
 ---
