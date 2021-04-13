@@ -10,7 +10,7 @@ c | Change line
 d | Delete line (commands like 6a/6c/6d also work)
 = | Check all the lines
 . | Check the current line
-<num> | Move to line number <num>
+{num} | Move to line number {num}
 y | yank line
 p | paste line (commands like 6y/6p also work)
 u | Undo
